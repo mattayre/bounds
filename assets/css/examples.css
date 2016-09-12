@@ -132,20 +132,20 @@
   background-color:#331452 ;
   opacity:1;
   }
-  
+
   .navbar-brand img{
   width:80px;
   }
 
-  
+
   .parallax .small-info button.btn{
     display:none;
-    
+
   }
   .parallax .small-info.ofsted{
     top:385px;
     position: fixed;
-    
+
   }
   .parallax .small-info.ofsted img{
     width:110px;
@@ -160,7 +160,7 @@
   .parallax .small-info.title h3{
     font-size: 18px !important;
   }
-} 
+}
 .big-map {
   height: 100%;
   width: 100%;
@@ -287,7 +287,7 @@
 }
 .home .img-container2 {
   border-radius:  10px;
-  overflow: hidden; 
+  overflow: hidden;
 }
 .home .img-container2 img {
   width: 100%;
@@ -324,7 +324,7 @@
   -moz-transform:scale(1.2);
   -o-transform:scale(1.2);
   -ms-transform:scale(1.2);
-  
+
 }
 .home .section-testimonials .carousel-control {
   left: -70px;
@@ -479,20 +479,16 @@
 
 /*modal css*/
 .close {
-  font-size: 80px;
+  font-size: 50px;
   color:grey;
   opacity:1
 }
 .close:hover {
-  color:red;
+  color:green;
   animation: spin 1s;
 }
-@media (max-width: 768px) {
-  .close {
-    font-size: 50px;
-  }
-}
- 
+
+
 
 .project-content {
   position: fixed;
@@ -661,7 +657,7 @@ body.noscroll {
 @media (max-width: 768px) {
   #opentext {
     display:block;
-    
+
   }
 }
 @media (max-width: 768px) {

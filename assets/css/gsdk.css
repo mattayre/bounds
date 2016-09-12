@@ -1785,7 +1785,7 @@ input.ct-red + span + label + span.switch-right {
 }
 
 .navbar {
- 
+
   border: 0;
   font-size: 23px;
 }
@@ -3841,7 +3841,7 @@ input.ct-red + span + label + span.switch-right {
 }
 
 .modal-content {
-  background-color:#DDDDDD;
+  background-color:#090415;
   color: white;
   border: 0 none;
   border-radius:0;
@@ -3875,7 +3875,7 @@ input.ct-red + span + label + span.switch-right {
   transform: none;
   -webkit-transform: none;
   -moz-transform: none;
-  
+
 }
 
 .modal-small .modal-dialog {
@@ -5324,11 +5324,11 @@ input.ct-red + span + label + span.switch-right {
  * http://www.apache.org/licenses/LICENSE-2.0
  *
  */
-/*  
+/*
  *
  *   SCSS by Creative Tim
  *   http://www.creative-tim.com
- *   
+ *
  */
 .datepicker {
   top: 0;
@@ -5540,4 +5540,4 @@ input.ct-red + span + label + span.switch-right {
   }
 .nav-open .wrapper2 {
     left: 0;
-  }  
+  }
